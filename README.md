@@ -6,3 +6,4 @@
 4. Hoeveel deelnemers gaan naar het evenement Tech Conferentie 2023?
 5. Toon de deelnemers die naar het evenement Tech Conferentie 2023 gaan?
 6. Welke deelnemers hebben op 20-04 een sessie gevolgd?
+7. Bereken het aantal deelnemers voor elke sessie.
