@@ -32,7 +32,7 @@ services:
     build:
       dockerfile: ./.docker/phpmyadmin/Dockerfile
     ports:
-      - 8000:80
+      - 8001:80
     environment:
       - PMA_ARBITRARY=1
       - PMA_HOST=mariadb
